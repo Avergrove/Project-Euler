@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-SumOfMultOf3Or5", "ProjectEuler\1-SumOfMultOf3Or5.csproj", "{13C82FB2-0DB6-43FE-8D47-BCECE2624782}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-SumOfEvenFibs", "2-SumOfEvenFibs\2-SumOfEvenFibs.csproj", "{8B1A139E-5963-4F05-9A72-32B17859B71E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{13C82FB2-0DB6-43FE-8D47-BCECE2624782}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13C82FB2-0DB6-43FE-8D47-BCECE2624782}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13C82FB2-0DB6-43FE-8D47-BCECE2624782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1A139E-5963-4F05-9A72-32B17859B71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1A139E-5963-4F05-9A72-32B17859B71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1A139E-5963-4F05-9A72-32B17859B71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1A139E-5963-4F05-9A72-32B17859B71E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
